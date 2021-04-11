@@ -8,7 +8,7 @@ class RoadMap extends Component {
     render() {
         return (
             <section class="bg-dotted-map">
-                <div class="container">
+                <div class="container bg-dotted-map">
                     <div class="row medium-padding300 align-center">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <header class="crumina-module crumina-heading heading--h2 heading--with-decoration">

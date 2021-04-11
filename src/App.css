@@ -1,5 +1,12 @@
-.App {
-    /* background: url("body-bg.png") */
+.taggle-menu-items {
+    margin: 0 0 50px 0;
+    padding: 0px;
+    list-style: none;
+    display: flex;
 }
 
-/* background: url("../img/body-bg.png"); */
+.taggle-menu-items li {
+    margin: 15px 0px;
+}
+
+

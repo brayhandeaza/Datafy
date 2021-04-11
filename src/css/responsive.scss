@@ -1,0 +1,68 @@
+@media (max-width: 460px) {
+    header {
+        padding: 0px;
+        margin: 0px;
+
+        .header-content-wrapper {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            justify-content: space-between;
+        }
+
+        .toggle-menu {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .taggle-menu-items {
+            width: 100%;
+            color: #a1abbd;
+
+            ul li {
+                text-decoration: none !important;
+                margin: 0px;
+            }
+        }
+    }
+
+    .Banner {
+        height: 80vh;
+
+        .heading-title {
+            font-weight: bold;
+            font-size: 20px !important;
+            position: relative;
+            top: -55px;
+        }
+
+        .slogan {
+            padding-left: 10px;
+            font-size: 20px !important;
+            position: relative;
+            top: -55px;
+        }
+
+        .details-btn {
+            position: relative;
+            top: 55px;
+        }
+
+    }
+
+
+
+}
+
+
+@media (max-width: 1024px) {
+    .taggle-menu-items {
+        width: 100%;
+        display: flex;
+    }
+
+    .taggle-menu-items li {
+        margin-right: 15px;
+    }
+}

@@ -1,4 +1,5 @@
 import './App.css'
+import './css/responsive.scss'
 
 // Components
 import Header from "./components/Header"
