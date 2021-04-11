@@ -23,7 +23,7 @@
 html,
 body {
     position: relative;
-    height: 100%;   
+    height: 100%;
 }
 
 /* #181d2f blue */
@@ -3299,12 +3299,11 @@ summary {
     display: block
 }
 
-audio,
-canvas,
-progress,
-video {
-    display: inline-block
-}
+
+canvas {
+    /* margin-left: 300px; */
+    display: inline-block;
+ }
 
 audio:not([controls]) {
     display: none;
@@ -3530,8 +3529,8 @@ textarea {
 }
 
 .header {
-    position: fixed; 
-    position: -webkit-sticky; 
+    position: fixed;
+    position: -webkit-sticky;
     width: 100%;
     padding: 20px 0;
     z-index: 999;
@@ -3551,7 +3550,7 @@ textarea {
 .header-spacer {
     display: block;
     width: 100%;
-   
+
 }
 
 .header-content-wrapper {

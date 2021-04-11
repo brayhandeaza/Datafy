@@ -19,7 +19,7 @@ var CRUMINA = {};
     CRUMINA.preloader = function () {
         return t.scrollTop(0), setTimeout((function () {
             u.fadeOut(800)
-        }), 500), !1
+        }), 1000), !1
     }, CRUMINA.spinnerAnimation = function () {
         var e = document.getElementById("can"),
             t = e.getContext("2d"),
