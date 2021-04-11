@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brayhandeaza/Datafy/static/css/main.7f80f4be.chunk.css",
+    "main.js": "/brayhandeaza/Datafy/static/js/main.2da714ed.chunk.js",
+    "main.js.map": "/brayhandeaza/Datafy/static/js/main.2da714ed.chunk.js.map",
+    "runtime-main.js": "/brayhandeaza/Datafy/static/js/runtime-main.8048d295.js",
+    "runtime-main.js.map": "/brayhandeaza/Datafy/static/js/runtime-main.8048d295.js.map",
+    "static/js/2.0b2697aa.chunk.js": "/brayhandeaza/Datafy/static/js/2.0b2697aa.chunk.js",
+    "static/js/2.0b2697aa.chunk.js.map": "/brayhandeaza/Datafy/static/js/2.0b2697aa.chunk.js.map",
+    "static/js/3.d63676d5.chunk.js": "/brayhandeaza/Datafy/static/js/3.d63676d5.chunk.js",
+    "static/js/3.d63676d5.chunk.js.map": "/brayhandeaza/Datafy/static/js/3.d63676d5.chunk.js.map",
+    "index.html": "/brayhandeaza/Datafy/index.html",
+    "static/css/main.7f80f4be.chunk.css.map": "/brayhandeaza/Datafy/static/css/main.7f80f4be.chunk.css.map",
+    "static/js/2.0b2697aa.chunk.js.LICENSE.txt": "/brayhandeaza/Datafy/static/js/2.0b2697aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8048d295.js",
+    "static/js/2.0b2697aa.chunk.js",
+    "static/css/main.7f80f4be.chunk.css",
+    "static/js/main.2da714ed.chunk.js"
+  ]
+}
