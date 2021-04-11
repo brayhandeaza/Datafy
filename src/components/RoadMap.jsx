@@ -12,8 +12,8 @@ class RoadMap extends Component {
                     <div class="row medium-padding300 align-center">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <header class="crumina-module crumina-heading heading--h2 heading--with-decoration">
-                                <h2 class="heading-title weight-normal">Kazch
-                                <span class="weight-bold" style={{color: "#f05136"}}> RoadMap</span>
+                                <h2 class="heading-title weight-normal">Datafy
+                                <span class="weight-bold" style={{ color: "#f05136" }}> RoadMap</span>
                                 </h2>
                             </header>
                             <div class="counters">

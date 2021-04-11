@@ -11,7 +11,7 @@ class Header extends Component {
                 <div class="container">
                     <div class="header-content-wrapper">
                         <a href="/" class="site-logo">
-                            <img width="50px" src="/img/DatafyLogo.png" alt="Woox" />
+                            <img width="50px" src="/img/DatafyLogo.png" alt="datafy" />
                             <h2 class="logo-title">Datafy</h2>
                         </a>
                         <nav id="primary-menu" class="primary-menu">
@@ -37,16 +37,7 @@ class Header extends Component {
                                     <a href="/">White Paper</a>
                                 </li>
                                 <li>
-                                    <a href="/">Buy KZH</a>
-                                </li>
-                                <li>
-                                    <a href="/">Events</a>
-                                </li>
-                                <li>
-                                    <a href="/">Pages</a>
-                                </li>
-                                <li>
-                                    <a href="/">Contacts</a>
+                                    <a href="/">Buy DTF</a>
                                 </li>
                             </ul>
                         </nav>

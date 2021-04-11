@@ -48,19 +48,19 @@ var CRUMINA = {};
             var e = this.rotateX(i).rotateY(a).rotateZ(0).perspectiveProjection(100, 100);
             this.color = "rgba(240, 82, 54, 0.5)", t.fillStyle = this.color, t.fillRect(e.x, e.y, 1.5, 1.5)
         };
-        for (var r = 0; r < 50; r++)
+        for (var r = 0; r < 500; r++)
             for (var l = 0; l < 50; l++) {
-                n.push(new s(200 * l - 5e3, 0, 200 * r - 5e3))
+                n.push(new s(200 * l - 5e3, 0, 500 * r - 5e3))
             }! function s() {
                 t.fillStyle = "rgba(22, 24, 29, 1)", t.fillRect(0, 0, e.width, e.height);
                 for (var r = 0, l = n.length; r < l; r++) {
                     var c = r % 50,
                         d = Math.floor(r / 50),
-                        u = Math.sin(c / 50 * 4 * Math.PI + o),
-                        m = Math.cos(d / 50 * 4 * Math.PI + o);
+                        u = Math.sin(c / 50 * 5 * Math.PI + o),
+                        m = Math.tan(d / 50 * 5 * Math.PI + o);
                     n[50 * d + c].y = 1500 + u * m * 1050, n[r].draw()
                 }
-                o += .03, i += .005, a += .005, window.requestAnimationFrame(s)
+                o += .0006, i += .0005, a += .0001, window.requestAnimationFrame(s)
             }()
     }, CRUMINA.flyingBalls = function () {
         setTimeout((function () {

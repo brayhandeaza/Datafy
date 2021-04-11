@@ -15,8 +15,8 @@ class Footer extends Component {
                         <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0 col-xs-12">
                             <div class="widget w-info">
                                 <a href="index.html" class="site-logo">
-                                    <img width="40px" src="img/logo-primary.png" alt="Woox" />
-                                    <h2 class="logo-title">Kazch</h2>
+                                    <img width="40px" src="/img/DatafyLogo.png" alt="Woox" />
+                                    <h2 class="logo-title">Datafy</h2>
                                 </a>
                                 <p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
                                 litterarum formas humanitatis. Vitae purus faucibus ornare suspendisse sed nisi lacus sed
