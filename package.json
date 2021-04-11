@@ -1,5 +1,6 @@
 {
-  "name": "kazch",
+  "homepage": "https://brayhandeaza.github.io/datafy",
+  "name": "datafy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
