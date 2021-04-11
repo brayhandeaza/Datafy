@@ -37,7 +37,7 @@ class Header extends Component {
                                     <a href="/">White Paper</a>
                                 </li>
                                 <li>
-                                    <a href="/">Buy DTF</a>
+                                    <a href="/">How to buy DTF</a>
                                 </li>
                             </ul>
                         </nav>

@@ -569,7 +569,8 @@ h2,
     line-height: 1.3em;
     font-weight: 400;
     color: #fff;
-    font-family: comfortaa, Arial, helvetica neue, Helvetica, sans-serif;
+    /* font-family: comfortaa, Arial, helvetica neue, Helvetica, sans-serif; */
+    font-family: 'Barlow Semi Condensed', sans-serif;
     letter-spacing: -.02em
 }
 
