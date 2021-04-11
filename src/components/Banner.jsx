@@ -19,9 +19,9 @@ class Banner extends Component {
                                     <h1 style={{ fontSize: 60 }} class="heading-title f-size-90 weight-normal no-margin">
                                         Innovating <br /> the future of data <br /> tranfer and storage
                                     </h1>
-                                    <h2 style={{ color: '#f05136', fontSize: 26 }}>Fast secure compressed data.</h2>
+                                    <h2 style={{ color: '#f05136', fontSize: 26 }} className='slogan' >Fast secure compressed data.</h2>
                                 </header>
-                                <span data-scroll href="index.html#details" style={{ marginBottom: 50 }} class="btn btn--large btn--transparent btn--secondary">Details</span>
+                                <span data-scroll href="index.html#details" style={{ marginBottom: 50 }} class="btn btn--large btn--transparent btn--secondary details-btn">Details</span>
                             </div>
                         </div>
                     </div>
